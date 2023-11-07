@@ -3,13 +3,13 @@ body {
   }
 
   #titulo{
-    color: #3c468d
+    color: #3c468d;
     font-size: 50px;
     text-align: center;
  }
 
  .texto{
-    color: #1f1f33
-    font-size: 30px;
+    color: #1f1f33;
+    font-size:  30px;
     text-align: justify;
  }
